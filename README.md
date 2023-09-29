@@ -10,44 +10,52 @@ transmission through a specified whitelist approach.
 PyTorch to enhance image quality through illumination equalization.
 
 ## Demonstration
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/ca294bf8-07b6-4b46-a3a0-70ba267c83ad)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/3dd6b1ba-f546-49a8-875c-930f200a73a2)
+
 
 **Fig 1. Data Flow Diagram**
 
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/85a3ffe2-4560-427b-9084-2da92b1317b6)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/831fc598-d9b3-47d8-bdc3-793db25886cb)
+
 
 **Fig 2. System Workflow**
 
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/cc531506-9645-469e-91ed-f3c442ed8f19)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/9eca3969-7c8e-4cbb-bea1-0a27ae5ec80e)
+
 
 **Fig 3. Image collection main page**
 
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/66f2d15a-dba1-42a0-ac9d-9c43f40af91c)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/15de82ec-8f70-402d-a581-c2ea76a7c479)
+
 
 **Fig 4. Patient information collection page**
 
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/136e8fb9-4055-40f7-add6-900f19ca830d)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/adcded3b-cb29-4c98-afa8-dbbefe77de2e)
+
 
 **Fig 5. Patient information collection example**
 
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/13e349ca-3945-4c1b-ae7c-daa1f59be047)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/e0ae453c-3a39-46e9-80e3-986eebb5d9f1)
+
 
 **Fig 6. Patient information stored in database example**
 
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/e4332a5b-88f3-4c44-a6f6-edb0c27ed008)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/2a9811b8-3ae9-4637-8e25-5fc49491a289)
+
 
 **Fig 7. Image acquisition example**
 
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/a5033e70-fd5a-4dda-8062-e09ae32590fc)
+![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/5252c834-8ff1-4821-ab36-6b19cd9eab2e)
+
 
 **Fig 8. Browse images via Dicom Viewer**
 
-![Snipaste_2023-09-28_19-18-24](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/5eb79f6b-3961-4210-99d3-bf9e6f308535)
+![Snipaste_2023-09-28_19-18-24](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/7804e024-1755-4f42-9686-42373ebb0379)
 
 
 **Fig 9. Endoscopic image enhancement results**
 
-![Snipaste_2023-09-28_19-18-36](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/55590661-ad72-4e6a-aefc-f70aa025e801)
+![Snipaste_2023-09-28_19-18-36](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/15aab981-4acb-4666-9188-a15ec0eedb22)
 
 
 **Fig 10. Interface design**
