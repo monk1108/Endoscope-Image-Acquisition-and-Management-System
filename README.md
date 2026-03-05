@@ -38,19 +38,14 @@ PyTorch to enhance image quality through illumination equalization.
 ![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/e0ae453c-3a39-46e9-80e3-986eebb5d9f1)
 
 
-**Fig 6. Image acquisition example**
-
-![image](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/5252c834-8ff1-4821-ab36-6b19cd9eab2e)
-
-
-**Fig 7. Browse images via Dicom Viewer**
+**Fig 6. Browse images via Dicom Viewer**
 
 ![Snipaste_2023-09-28_19-18-24](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/7804e024-1755-4f42-9686-42373ebb0379)
 
 
-**Fig 8. Endoscopic image enhancement results**
+**Fig 7. Endoscopic image enhancement results**
 
 ![Snipaste_2023-09-28_19-18-36](https://github.com/monk1108/Endoscope-Image-Acquisition-and-Management-System/assets/61319274/15aab981-4acb-4666-9188-a15ec0eedb22)
 
 
-**Fig 9. Interface design**
+**Fig 8. Interface design**
